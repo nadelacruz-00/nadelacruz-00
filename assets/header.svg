@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150" role="img" aria-label="nadelacruz-00">
+  <rect width="880" height="150" rx="10" fill="#1a1b26"/>
+  <rect x="0.5" y="0.5" width="879" height="149" rx="10" fill="none" stroke="#3b4261"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="36" y="58" font-size="30" font-weight="600" fill="#c0caf5"><tspan fill="#7aa2f7">~/</tspan>nadelacruz-00</text>
+    <text x="36" y="92" font-size="15" fill="#a9b1d6">mainline Linux on a Snapdragon tablet, and the tools around it</text>
+    <text x="36" y="118" font-size="13" fill="#565f89">
+      <tspan fill="#9ece6a">erhai</tspan> · <tspan fill="#7dcfff">SM8750</tspan> · kernel · KernelSU · GNOME · <tspan fill="#bb9af7">arm64 CI</tspan>
+    </text>
+  </g>
+  <rect x="36" y="128" width="808" height="1" fill="#3b4261"/>
+</svg>
